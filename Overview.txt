@@ -1,0 +1,31 @@
+# 1: Course Introduction -- Linux Operating System
+
+- Set up with Linux, install on your machine (this way you can play around with it without damaging your machine)
+- Linux terminal, a program that is your gateway to doing anything on your machine
+- How to enter commands, clear up misconceptions
+- Linux file system, how to work with files (99% of what you do)
+- Delete, create, copy, paste etc files, do everything with files
+- How to automate tasks with bash scripts
+- Installing 3rd party software on your Linux machine
+- Open source software
+- There are quizzes and assignments
+- Some cheatsheets
+
+# 2: Installation
+
+- In final section of course (Appendix: Setting up your Linux Virtual Machine")
+- Watch installation vids
+
+## Section 8: Appendix: Setting up your Linux Virtual Machine
+
+# 68: Installing Virtual Box
+
+
+# 69: Setting Up Your Very Own Linux Virtual Machine
+
+
+# 70: Launching Linux For the First Time
+
+
+# 71: Installation Troubleshooting
+
