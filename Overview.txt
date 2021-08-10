@@ -1,4 +1,4 @@
-# 1: Course Introduction -- Linux Operating System
+# Section 1: Course Introduction -- Linux Operating System
 
 - Set up with Linux, install on your machine (this way you can play around with it without damaging your machine)
 - Linux terminal, a program that is your gateway to doing anything on your machine
@@ -11,21 +11,44 @@
 - There are quizzes and assignments
 - Some cheatsheets
 
-# 2: Installation
+--------------------------------------------------------------------------------------------------------------------
+
+# Section 2: Installation
 
 - In final section of course (Appendix: Setting up your Linux Virtual Machine")
 - Watch installation vids
 
+--------------------------------------------------------------------------------------------------------------------
+
 ## Section 8: Appendix: Setting up your Linux Virtual Machine
 
-# 68: Installing Virtual Box
+# Lecture 68: Installing Virtual Box
+
+- https://www.virtualbox.org/wiki/Downloads
+- Youtube vid: https://www.youtube.com/watch?v=4SbTXqPk_1Y 
+- So running a virtual machine through virtual box is going to create the perfect playground for us to try at the Linux operating system without us affecting the way that your actual computer works so nothing can actually go wrong. 
+- Click OS Host
+- Save in downloads folder
+- It's going to download an installer. 
+- Open up VirtualBox in Applications
 
 
-# 69: Setting Up Your Very Own Linux Virtual Machine
+# Lecture 69: Setting Up Your Very Own Linux Virtual Machine
+
+- Ubuntu download link: https://ubuntu.com/download/desktop
+- Download the most up to date option
+- It will download a disk image file, save in downloads folder. 
+- Large file ~1.4 GB, it can take a long time. 
+- I stopped around 2:40 . 
 
 
-# 70: Launching Linux For the First Time
+
+# Lecture 70: Launching Linux For the First Time
 
 
-# 71: Installation Troubleshooting
+
+
+# Lecture 71: Installation Troubleshooting
+
+--------------------------------------------------------------------------------------------------------------------
 
